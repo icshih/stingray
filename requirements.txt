@@ -1,0 +1,7 @@
+stingray
+tox
+pytest-astropy
+Numba
+pyfftw
+lightkurve
+jupyter
